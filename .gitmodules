@@ -1,0 +1,3 @@
+[submodule "python-design-patterns"]
+	path = python-design-patterns
+	url = git@github.com:mrl5/python-design-patterns.git
