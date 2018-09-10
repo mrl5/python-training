@@ -1,6 +1,6 @@
 [submodule "python-design-patterns"]
-	path = python-design-patterns
+	path = design-patterns
 	url = git@github.com:mrl5/python-design-patterns.git
 [submodule "python-unit-testing"]
-	path = python-unit-testing
+	path = unit-testing
 	url = git@github.com:mrl5/python-unit-testing.git
