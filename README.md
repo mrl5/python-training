@@ -14,6 +14,7 @@ Collection of my Python training sessions organised as *Git submodules*
 ## [Test-driven development]
 * [ ] Examples from [Unit Testing and Test Driven Development in Python] by [Richard Wells]
 
+[Test-driven development]: https://github.com/mrl5/python-test-driven-development
 [Unit Testing and Test Driven Development in Python]: https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python
 [Richard Wells]: https://www.linkedin.com/learning/instructors/richard-wells
 
