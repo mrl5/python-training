@@ -12,7 +12,7 @@ Collection of my Python training sessions organised as *Git submodules*
 [Jungwoo Ryoo]: https://www.linkedin.com/learning/instructors/jungwoo-ryoo
 
 ## [Unit Testing]
-* [ ] Examples from chapter 9 of [Dive Into Python 3] by [Mark Pilgrim]
+* [x] Examples from chapter 9 of [Dive Into Python 3] by [Mark Pilgrim]
 
 [Unit Testing]: https://github.com/mrl5/python-unit-testing
 [Dive Into Python 3]: http://www.diveintopython3.net/
