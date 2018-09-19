@@ -4,3 +4,6 @@
 [submodule "python-unit-testing"]
 	path = unit-testing
 	url = git@github.com:mrl5/python-unit-testing.git
+[submodule "python-test-driven-development"]
+	path = test-driven-development
+	url = git@github.com:mrl5/python-test-driven-development.git
